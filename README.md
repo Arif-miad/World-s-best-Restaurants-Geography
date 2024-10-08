@@ -67,3 +67,4 @@ map_world.save("restaurants_map.html")
 
 map_world
 ```
+![image](https://github.com/Arif-miad/World-s-best-Restaurants-Geography/blob/main/__results___12_0.png)
